@@ -26,7 +26,7 @@ clicc(event){
         isToggleOn: !state.isToggleOn,
         
       }));
-      alert('click')
+      
       }
 
 
