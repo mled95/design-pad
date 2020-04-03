@@ -5,7 +5,7 @@ import DesignContainer from './components/DesignContainer';
 import './padInput.css'
 
 import './App.css';
-import DesignContainer from './components/DesignContainer';
+
  
 function App() {
   return (
