@@ -25,7 +25,7 @@ clicc(event){
     this.setState(state => ({
         isToggleOn: !state.isToggleOn
       }));
-    alert('click')
+    
 
 }
 
